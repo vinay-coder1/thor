@@ -1,5 +1,5 @@
 [
-                            { "id": "Chocolate",
+{ "id": "Chocolate",
                               "parent":"#",
                               "text": "Chocolate Beverage"
                             },
@@ -29,7 +29,7 @@
                            },
                            { "id": "Espresso Child1", 
                             "parent":"Espresso", 
-                             "text": "Caffe Americano"
+                             "text": "Caffe Black"
                            },
                            { "id": "Espresso Child2", 
                             "parent":"Espresso", 
@@ -64,4 +64,4 @@
                              "text": "450 calories"
                            }
 
-            ]
+            ];
