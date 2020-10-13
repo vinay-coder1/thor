@@ -1,5 +1,5 @@
 [
-{ "id": "Chocolate",
+                           { "id": "Chocolate",
                               "parent":"#",
                               "text": "Chocolate Beverage"
                             },
@@ -64,4 +64,4 @@
                              "text": "450 calories"
                            }
 
-            ];
+            ]
