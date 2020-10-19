@@ -1,7 +1,8 @@
 [
                            { "id": "Java",
                               "parent":"#",
-                              "text": "Java Questions"
+                              "text": "Java Questions",
+                              "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaCoreQuestions.json"
                             },
                             { "id": "SQL",
                               "parent":"#",
