@@ -11,7 +11,8 @@
                             },
                             { "id": "MySQL",
                               "parent":"#",
-                             "text": "MySQL Questions" 
+                             "text": "MySQL Questions",
+                             "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/MsqlBasicQuestions.json"
                             },
                             { "id": "Java Child1",
                               "parent":"Java",
