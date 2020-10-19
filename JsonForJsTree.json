@@ -4,7 +4,7 @@
                               "text": "Java Questions",
                               "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaCoreQuestions.json",
                                "state" : {
-                                   selected : true  // intialy selected
+                                   "selected" : "true"  // intialy selected
                             }
                             },
                             { "id": "SQL",
