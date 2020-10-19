@@ -2,7 +2,10 @@
                            { "id": "Java",
                               "parent":"#",
                               "text": "Java Questions",
-                              "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaCoreQuestions.json"
+                              "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaCoreQuestions.json",
+                              "state": {
+                                     "selected": "true"   
+                                     }
                             },
                             { "id": "SQL",
                               "parent":"#",
