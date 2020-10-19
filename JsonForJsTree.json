@@ -2,8 +2,7 @@
                            { "id": "Java",
                               "parent":"#",
                               "text": "Java Questions",
-                              "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/InterviewQuestions.json",
-                              "data2":"JavaCore"
+                              "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaCoreQuestions.json"
                             },
                             { "id": "SQL",
                               "parent":"#",
@@ -18,20 +17,17 @@
                             { "id": "Java Child1",
                               "parent":"Java",
                               "text": "Core Java",
-                             "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/InterviewQuestions.json",
-                               "data2":"JavaCore"
+                             "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaCoreQuestions.json"
                            },
                            { "id": "Java Child2", 
                            "parent":"Java", 
                            "text": "Java Thread",
-                            "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/InterviewQuestions.json",
-                           "data2":"JavaThread"
+                            "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaThreadQuestions.json"
                            },
                            { "id": "Java Child3", 
                           "parent":"Java", 
                            "text": "Java Exception",
-                            "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/InterviewQuestions.json",
-                           "data2":"JavaCollection"
+                            "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaExceptionQuestions.json"
                            },
                            { "id": "SQL Child1", 
                             "parent":"SQL", 
