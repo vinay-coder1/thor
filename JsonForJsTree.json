@@ -6,7 +6,8 @@
                             },
                             { "id": "SQL",
                               "parent":"#",
-                             "text": "SQL Questions" 
+                             "text": "SQL Questions",
+                             "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/SqlQuestions.json"
                             },
                             { "id": "MySQL",
                               "parent":"#",
@@ -15,42 +16,42 @@
                             { "id": "Java Child1",
                               "parent":"Java",
                               "text": "Core Java",
-                              "data":"JavaCore"
+                               "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaCoreQuestions.json"
                            },
                            { "id": "Java Child2", 
                            "parent":"Java", 
                            "text": "Java Thread",
-                           "data":"JavaThread"
+                           "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaThreadQuestions.json"
                            },
                            { "id": "Java Child3", 
                           "parent":"Java", 
                            "text": "Java Exception",
-                           "data":"JavaException"
+                           "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/JavaExceptionQuestions.json"
                            },
                            { "id": "SQL Child1", 
                             "parent":"SQL", 
                              "text": "SQL Basic",
-                             "data":"SQLBasic"
+                             "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/SqlQuestions.json"
                            },
                            { "id": "SQL Child2", 
                             "parent":"SQL", 
                              "text": "SQL CRUD",
-                             "data":"SQLCRUD"
+                             "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/SqlCrudQuestions.json"
                            },
                            { "id": "SQL Child3", 
                             "parent":"SQL", 
                             "text": "SQL Joins",
-                             "data":"SQLJoins"
+                             "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/SqlJoins.json"
                            },
                            { "id": "MySQL Child1 ", 
                              "parent":"MySQL", 
                              "text": "MySQL Vanilla",
-                             "data":"MySQLJoins"
+                             "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/MsqlBasicQuestions.json"
                            },
                            { "id": "MySQL Child2",
                              "parent":"MySQL", 
                              "text": "MySQL black",
-                             "data":"MySQLblack"
+                             "data":"https://raw.githubusercontent.com/vinay-coder1/JSON-1/patch-8/MsqlBasicQuestions.json"
                            },
                            { "id": "MySQL Super child1", 
                              "parent":"MySQL Child2", 
